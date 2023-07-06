@@ -1,0 +1,28 @@
+.borde{border: solid 1px #000; margin: 10px;
+    margin-bottom: 50px;  <!— — 50px 50px 50px 50px es lo mismo pero distinta escritura-->
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius:, 50px;
+    padding: 30px 15px  
+        font-family: "Roboto", sans-serif;
+        text-transform: capitalize;
+        text-decoration: none;
+        text-align: center;
+        font-style: italic;
+        font-weight: 500;
+}
+
+.d-block {display: block;}
+.d-none {display: none;}
+
+span{
+    display: none;         <Desaparece el elemento--->
+    visibility:hidden;     <--Esconde, pero sigue ocupando un espacio-->
+}
+
+.cuadrado {
+    width: 100px;
+    height: 100px;
+}
+/framework bootstrap/ <!— —Define clasees -->
